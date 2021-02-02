@@ -29,4 +29,4 @@ Finally, we checked our work using the **Error Checking and Statistics** noteboo
 Our data can be found in the project repo, named **final.json**. If you'd like to review our data, we suggest using [this online json editor.](https://jsoneditoronline.org/) Just paste the entire file contents while "code" is toggled in the top left, and then switch to "tree" mode. You'll then be able to easily explore the data.
 
 ## Acknowledgments
-All work was done by myself [Janam](https://github.com/janampatel15) and [Ambrose](https://github.com/ajkarella). [SerpApi](https://serpapi.com/), and their generous 15 day trial, was a big help as well.
+All work was done by [Ambrose](https://github.com/ajkarella) and [me](https://github.com/janampatel15). [SerpApi](https://serpapi.com/), and their generous 15 day trial, was a big help as well.
