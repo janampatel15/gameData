@@ -1,4 +1,4 @@
-# Scraping Data: Game Title Info
+# Scraping Data: Collecting Video Game Information
 The purpose of this project was to collect information about past videogame consoles. We attempted to scrape information like release date, publisher, developer, review scores, and description on over 11,000 titles.
 
 Of those 11K titles, we were able to collect information about 79% of them using knowledge graphs. The following consoles were collected:
